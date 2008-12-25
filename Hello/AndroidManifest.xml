@@ -10,5 +10,6 @@
 		</activity>
 		<uses-library android:name="com.google.android.maps" />
 	</application>
+	<!-- コメント追加～～ -->
 	<uses-permission android:name="android.permission.INTERNET" />
 </manifest>
